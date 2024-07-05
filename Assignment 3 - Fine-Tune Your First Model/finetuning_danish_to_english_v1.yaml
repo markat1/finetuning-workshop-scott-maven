@@ -1,0 +1,16 @@
+conversation: {}
+
+# The Hugging Face model name of the base model.
+base_model: meta-llama/Meta-Llama-3-8B-Instruct
+
+#hyperparameters
+epochs: 2
+lora_rank: 32
+learning_rate: 0.0002
+batch_size: 4
+
+# Integrate with Weights & Biases to provide observability into the tuning process.
+# Create a W&B account and update these fields if you want observability. 
+wandb_entity: markat1
+wandb_api_key: d67631adfe4e1cd6b8f103ce196628b0b6f8e006
+wandb_project: danish-english-fine-tuning-workshop-1

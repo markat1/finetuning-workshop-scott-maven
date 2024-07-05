@@ -1,0 +1,7 @@
+datasets==2.20.0 
+fireworks-ai 
+jupyter 
+transformers 
+huggingface_hub
+pyarrow==15.0.0
+openai
