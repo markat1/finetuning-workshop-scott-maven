@@ -12,5 +12,5 @@ batch_size: 4
 # Integrate with Weights & Biases to provide observability into the tuning process.
 # Create a W&B account and update these fields if you want observability. 
 wandb_entity: markat1
-wandb_api_key: d67631adfe4e1cd6b8f103ce196628b0b6f8e006
+wandb_api_key: f479a3021a39c04f6877c08ebdfe2564a9d6e43f
 wandb_project: danish-english-fine-tuning-workshop-1
